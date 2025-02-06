@@ -1,0 +1,18 @@
+Chatbot and AI Voice Assistant
+This project involves the creation of a Chatbot and AI Voice Assistant using Python and various machine learning techniques. The bot is capable of responding to user queries in natural language and can also process voice inputs, providing a more interactive experience.
+
+Features
+Text-Based Chatbot: Responds to user text queries with intelligent, context-aware responses.
+Voice Assistant: Allows users to interact with the assistant via voice commands.
+Speech Recognition: Converts spoken language into text for processing.
+Text-to-Speech: Converts text responses from the assistant into audible speech.
+Technologies Used
+Python
+Natural Language Processing (NLP)
+NLTK, SpaCy
+Speech Recognition
+Google Speech API
+Text-to-Speech (TTS)
+pyttsx3
+OpenAI GPT-3 or any alternative AI model
+Flask (for web integration)
